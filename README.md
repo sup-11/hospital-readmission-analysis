@@ -3,7 +3,7 @@ SQL analysis of 30-day hospital readmissions among patients with diabetes.
 
 ## Business Problem
 
-Hospital readmissions can increase healthcare costs and may indicate a need for additional post-discharge support. This project analyzes hospital encounters involving patients with diabetes to identify factors associated with 30-day readmission and determine which patient groups may benefit from targeted follow-up care.
+Hospital readmissions are costly and can place additional strain on healthcare resources. This project examines hospital encounters involving patients with diabetes to understand what factors are linked to readmission within 30 days and identify patient groups that may need additional follow-up after discharge.
 
 ## Business Question
 
