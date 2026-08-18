@@ -44,14 +44,14 @@ The analysis focused on:
 
 ## Key Findings
 
-- The overall 30-day readmission rate was approximately 11.16%, which was used as the baseline for comparison.
+- The overall 30-day readmission rate was approximately **11.16%**, which was used as the baseline for comparison.
 
-- Prior inpatient utilization showed one of the strongest patterns. The readmission rate increased substantially among patients with more prior inpatient visits.
+- **Prior inpatient utilization showed one of the strongest patterns.** The readmission rate increased substantially among patients with more prior inpatient visits.
 
-- Prior emergency utilization also showed increasing readmission rates, particularly among patients with frequent emergency visits.
+- **Prior emergency utilization also showed increasing readmission rates**, particularly among patients with frequent emergency visits.
 
-- Discharge disposition helped identify higher-risk groups. Patients discharged or transferred to rehabilitation facilities, skilled nursing facilities (SNF), and some other care settings showed elevated readmission rates.
+- **Discharge disposition helped identify higher-risk groups.** Patients discharged or transferred to rehabilitation facilities, skilled nursing facilities (SNF), and some other care settings showed elevated readmission rates.
 
-- Insulin treatment status showed meaningful differences. Encounters where insulin dosage was decreased or increased had higher readmission rates than those with steady or no insulin treatment.
+- **Insulin treatment status showed meaningful differences.** Encounters where insulin dosage was decreased or increased had higher readmission rates than those with steady or no insulin treatment.
 
 - A1C results and glucose levels did not show sufficiently consistent patterns to serve as primary indicators in the final patient segmentation.
