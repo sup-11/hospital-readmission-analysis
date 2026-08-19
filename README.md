@@ -83,3 +83,19 @@ These results suggest that a patient's history of hospital utilization, combined
 - Use diabetes treatment information, such as changes in insulin dosage, as an additional indicator when assessing follow-up needs.
 
 - Consider combining these factors into a readmission-risk screening process to help care teams identify patients who may benefit from earlier follow-up.
+
+
+## SQL Skills Demonstrated
+
+- Data profiling and cleaning
+- Aggregate functions: COUNT(), SUM(), MIN()
+- Conditional aggregation
+- CASE statements for grouping patient utilization
+- INNER JOINs across normalized tables
+- GROUP BY using multiple columns
+- HAVING to filter grouped results
+- Common Table Expressions (CTEs)
+- Window functions using RANK()
+- Subqueries
+- Filtering and sorting using WHERE and ORDER BY
+- Readmission rate calculations
