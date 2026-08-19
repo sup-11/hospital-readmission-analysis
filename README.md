@@ -88,7 +88,7 @@ These results suggest that a patient's history of hospital utilization, combined
 ## SQL Skills Demonstrated
 
 - Data profiling and cleaning
-- Aggregate functions: COUNT(), SUM(), MIN()
+- Aggregate functions: COUNT(), SUM()
 - Conditional aggregation
 - CASE statements for grouping patient utilization
 - INNER JOINs across normalized tables
