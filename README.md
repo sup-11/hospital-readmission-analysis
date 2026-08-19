@@ -71,3 +71,15 @@ Key patterns included:
 - Insulin status provided additional differentiation, but **prior inpatient utilization showed a more consistent pattern** across the final patient segments.
 
 These results suggest that a patient's history of hospital utilization, combined with discharge destination and treatment information, can help identify groups that may benefit from additional post-discharge follow-up.
+
+## Business Recommendations
+
+- Prioritize post-discharge follow-up for patients with frequent prior inpatient hospitalizations, particularly those with 4 or more prior inpatient visits.
+
+- Consider both prior inpatient and emergency visit history when identifying patients who may need additional support after discharge.
+
+- Provide additional attention to high-risk patients discharged to rehabilitation facilities, skilled nursing facilities, or home health care.
+
+- Use diabetes treatment information, such as changes in insulin dosage, as an additional indicator when assessing follow-up needs.
+
+- Consider combining these factors into a readmission-risk screening process to help care teams identify patients who may benefit from earlier follow-up.
