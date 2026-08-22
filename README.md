@@ -86,8 +86,8 @@ These results suggest that a patient's history of hospital utilization, combined
 
 ## Limitations
 
--The analysis shows patterns linked to 30-day readmission, but it does not prove what causes readmission.
-- Some clinical variables had substantial missing data and were therefore interpreted cautiously and not used as primary factors in the final patient segmentation.
+- The analysis shows patterns linked to 30-day readmission, but it does not prove what causes readmission.
+- Some clinical variables had substantial missing data and were therefore interpreted cautiously and not used as primary       factors in the final patient segmentation.
 - The dataset covers encounters from 1999–2008, so findings may not fully reflect current clinical practices.
 
 
